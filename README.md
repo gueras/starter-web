@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 
 ### Copyright
 2020 GGM
+
+## New Session to be Updated
